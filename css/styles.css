@@ -1,0 +1,41 @@
+@font-face { font-family: optima; src: url('fonts/Optima.ttc'); }
+
+body { -webkit-font-smoothing: antialiased; color: white; background-color: #252c31; margin: 0; padding: 0; font-family: 'optima', Arial, Helvetica, sans-serif; font-size: 18px; }
+
+#width { min-width: 850px; margin: auto; }
+
+a { text-decoration: none; color: white; } a:hover { text-decoration: underline; } a:visited { color: #e1e1e1; text-decoration: none; }
+
+#navi { padding: 10px 0px 10px 10px; font-size: 20px; }
+
+#navi ul li { list-style-type: none; display: inline; padding-right: 30px; }
+
+#request { background-image: url('../images/request.png'); background-repeat: no-repeat; padding: 14px 10px; }
+
+#brand { border-top: 3px solid #3c4247; border-bottom: 3px solid #3c4247; height: 151px; position: relative; top: -21px; background-image: url('../images/header-bg.jpg'); }
+
+#content { width: 800px; margin: auto; padding: 10px; }
+
+#gallery { width: 360px; float: left; }
+
+#intro { width: 360px; float: right; margin-top: -12px; }
+
+#intro p { text-align: justify; }
+
+form { width: 360px; }
+
+form p { margin: 0px 0px 8px 8px; clear: both; text-align: left; } 
+
+form input[type=text] { float: right; }
+
+#footer { clear: both; border-top: #ddc083 solid 1px; width: 800px; margin: auto; position: relative; top: 15px; font-size: 14px; padding: 10px 0px; }
+
+#footer #leftsies { width: 220px; }
+
+#leftsies .firstCOL { width: 110px; float: left; }
+
+#leftsies .secondCOL {width: 110px; float: right; }
+
+#footer  #center { text-align: center; position: relative; top: -52px; }
+
+#footer #rightsies { width: 200px; float: right; text-align: right; position: relative; top: -104px; }
