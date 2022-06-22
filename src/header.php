@@ -1,7 +1,7 @@
 <?php echo '
 
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="https://www.w3.org/1999/xhtml">
 <head>
 <title>Hoffman Murals | Serving South Carolina, North Carolina, Georgia and Beyond...</title>
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -10,7 +10,7 @@
 <meta name="description" content="Energize and enhance your home, office, or educational environment with a mural with Hoffman Murals. Serving South Carolina and Beyond.">
 <meta name="author" content="Scott Hoffman">
 <meta name="google-site-verification" content="zzLfPq5tNymwZY41ImSBrXrkpXoR6XNUDSXSe6xQMVM" />
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script type="text/javascript" src="scripts/jquery.aw-showcase.js"></script>
 <link rel="stylesheet" type="text/css" href="css/styles.css">
 <link rel="stylesheet" type="text/css" href="css/showcase.css">

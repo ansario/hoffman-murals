@@ -29,7 +29,7 @@
 							<br />
 							All of the Above Design
 							<br />
-							<a href="http://www.alloftheabove-design.com" target="_blank">www.alloftheabove-design.com<a>
+							<a href="https://www.alloftheabove-design.com" target="_blank">www.alloftheabove-design.com<a>
 						</td>
 					</tr>
 				</table>
